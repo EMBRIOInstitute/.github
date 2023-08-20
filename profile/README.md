@@ -1,12 +1,7 @@
-## Hi there 👋
+# EMBRIO Institute
 
-<!--
+![embrio_logo](https://github.com/EMBRIOInstitute/.github/assets/63483031/1556bd2a-61eb-4d8f-adfb-6536a44dd5ea)
 
-**Here are some ideas to get you started:**
+The **Emergent Mechanisms in Biology of Robustness Integration and Organization Insitute** (EMBRIO) studies how living systems integrate chemical 
+and mechanical stimuli to develop responsive phenotypes that coordinate cell and tissue structures for survival and functions.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
