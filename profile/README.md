@@ -5,3 +5,5 @@
 The **Emergent Mechanisms in Biology of Robustness Integration and Organization Insitute** (EMBRIO) studies how living systems integrate chemical 
 and mechanical stimuli to develop responsive phenotypes that coordinate cell and tissue structures for survival and functions.
 
+## Contact Information
+* [embrio@purdue.edu](embrio@purdue.edu)
